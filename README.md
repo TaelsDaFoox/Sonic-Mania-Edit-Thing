@@ -14,3 +14,5 @@ Sega logo + sound -> Sega Scruffy intro (https://www.youtube.com/watch?v=Vjj0aA9
 ADD THINGS HERE THAT YOU DID:
 
 Christian whitehead logo -> orange poly logo
+
+Jump -> Vine Boom (oh god)
